@@ -1,0 +1,29 @@
+/* Title1.css */
+/* Remedy.css */
+
+
+
+
+/* Remedy.css */
+.remedy-container {
+  background-image: url('../img/PhotoRoom-20230920_184910.png'); /* Replace with your desired background image path */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* Add any other background styles you want */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Adjust the height as needed */
+}
+
+.title1 {
+  margin-left: 900px;
+  font-size: 50px;
+  font-weight: bold;
+  color: #333;
+  /* Add any other component-specific styles you want */
+  text-align: center; /* Center the text horizontally within the container */
+}
+

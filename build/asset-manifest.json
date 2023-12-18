@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d421e4d.css",
+    "main.js": "/static/js/main.0f9753ae.js",
+    "static/js/787.30fa1748.chunk.js": "/static/js/787.30fa1748.chunk.js",
+    "static/media/dna.gif": "/static/media/dna.3529d5ae17a96c207ec0.gif",
+    "static/media/Anime_Pastel_Dream_The_image_should_showcase_a_delightful_spr_3.jpg": "/static/media/Anime_Pastel_Dream_The_image_should_showcase_a_delightful_spr_3.fb5731725f38c2b9de52.jpg",
+    "static/media/3D_Animation_Style_Generate_a_highresolution_image_which_shoul_0.jpg": "/static/media/3D_Animation_Style_Generate_a_highresolution_image_which_shoul_0.621d12863f979f33bea8.jpg",
+    "static/media/home.gif": "/static/media/home.b919c668e0b5fd1ebe76.gif",
+    "static/media/DreamShaper_v7_Generate_a_highresolution_image_which_should_pr_0.jpg": "/static/media/DreamShaper_v7_Generate_a_highresolution_image_which_should_pr_0.868e34d3be90c66d4a70.jpg",
+    "static/media/calculator.gif": "/static/media/calculator.baf85557beabaa932148.gif",
+    "static/media/medicine.gif": "/static/media/medicine.38e1409f9137961e7b3e.gif",
+    "static/media/PhotoRoom-20230920_184910.png": "/static/media/PhotoRoom-20230920_184910.940f68c0111c2bd4cedc.png",
+    "index.html": "/index.html",
+    "main.1d421e4d.css.map": "/static/css/main.1d421e4d.css.map",
+    "main.0f9753ae.js.map": "/static/js/main.0f9753ae.js.map",
+    "787.30fa1748.chunk.js.map": "/static/js/787.30fa1748.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d421e4d.css",
+    "static/js/main.0f9753ae.js"
+  ]
+}
